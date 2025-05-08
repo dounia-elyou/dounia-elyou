@@ -27,4 +27,5 @@ With a background in sustainable development, environmental research and softwar
 ### 👨‍💻 All of my projects are available at:
 [My Portfolio](https://github.com/dounia-elyou/dounia-elyou/blob/main/Portfolio.pdf)
 
+
 🔗 Let's collaborate on data-driven projects or just chat about how data can create impactful solutions!
