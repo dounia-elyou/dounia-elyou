@@ -22,7 +22,7 @@ With a background in sustainable development, environmental research and softwar
 **Bachelor's in Environmental Software Engineering**, Ecole Supérieure de Technologie d'Essaouira (2014 - 2017)  
 
 ### Certifications 📜  
-**CareerFoundry**: Data Analytics Program  (2024-2025) 
+**CareerFoundry**: Data Analytics Program (AfA) (2024-2025) 
 
 ### 👨‍💻 All of my projects are available at: [My Portfolio](https://github.com/dounia-elyou/dounia-elyou/blob/main/Portfolio.pdf)
 
